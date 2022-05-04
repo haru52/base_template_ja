@@ -21,8 +21,8 @@
 ## Installation
 
 ```sh
-gh repo clone <your org>/base_template # Clone the repository
-cd base_template
+gh repo clone <your org>/base_template_ja # Clone the repository
+cd base_template_ja
 make
 ```
 

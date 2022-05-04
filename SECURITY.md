@@ -2,10 +2,10 @@
 
 ## Supported Versions
 
-| Version                                                           | Supported |
-| ----------------------------------------------------------------- | --------- |
-| [Latest](https://github.com/haru52/base_template/releases/latest) | ✅        |
-| Others                                                            | ❌        |
+| Version                                                              | Supported |
+| -------------------------------------------------------------------- | --------- |
+| [Latest](https://github.com/haru52/base_template_ja/releases/latest) | ✅        |
+| Others                                                               | ❌        |
 
 ## Reporting a Vulnerability
 
