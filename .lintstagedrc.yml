@@ -4,6 +4,6 @@
   - prettier -c
 "*.{md,markdown}":
   - markdownlint
-  - make lint-text
+  # - textlint
 "{*.sh,.husky/*}": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint

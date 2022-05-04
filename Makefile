@@ -7,7 +7,6 @@ lint:
 	make lint-npm
 	make lint-sh
 	make lint-action
-	make lint-text
 
 .PHONY: lint-npm
 lint-npm:
@@ -20,10 +19,6 @@ lint-sh:
 .PHONY: lint-action
 lint-action:
 	actionlint
-
-.PHONY: lint-text
-lint-text:
-	vale README.md CONTRIBUTING.md SECURITY.md .github/*.md .github/ISSUE_TEMPLATE .github/vale_styles/Microsoft
 
 .PHONY: update-gi
 update-gi:

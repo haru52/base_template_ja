@@ -21,7 +21,6 @@ This template provides full compliance with [GitHub Community Standards](https:/
 | GitHub account                                              |                                                  |
 | Node.js and npm                                             | `engines` values in [package.json](package.json) |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                          |
-| [Vale CLI](https://vale.sh/)                                | >=2.16.0                                         |
 | [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                          |
 | [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                 |
 
@@ -55,7 +54,7 @@ Nothing to do.
 | Lint: Git commit message      | [commitlint](https://commitlint.js.org/)                                     |
 | Lint: credentials             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
 | Lint: Markdown                | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme) |
-| Lint: text (prose)            | [Vale](https://vale.sh/)                                                     |
+| Lint: text (prose)            | [textlint](https://textlint.github.io/)                                      |
 | Lint: shell script            | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                  |
 | Lint: YAML, etc.              | [Prettier](https://prettier.io/)                                             |
 | Lint: GitHub Actions workflow | [actionlint](https://github.com/rhysd/actionlint#readme)                     |
