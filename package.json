@@ -12,9 +12,11 @@
     "lint": "run-s --continue-on-error lint:*",
     "lint:credentials": "[ \"$CI\" = 'true' ] || secretlint \"**/*\"",
     "lint:md": "markdownlint . \".?*/**/*.{md,markdown}\"",
+    "lint:text": "textlint . \".?*/**\"",
     "lint:prettier": "prettier --check .",
     "format": "run-s --continue-on-error format:*",
     "format:md": "npm run lint:md -- --fix",
+    "format:text": "npm run lint:text -- --fix",
     "format:prettier": "prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz",
@@ -50,6 +52,11 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.6.2",
     "secretlint": "^5.2.0",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "textlint": "^12.1.1",
+    "textlint-filter-rule-allowlist": "^4.0.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-japanese": "^7.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.12"
   }
 }

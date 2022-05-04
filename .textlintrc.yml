@@ -1,0 +1,9 @@
+---
+rules:
+  preset-japanese: true
+  preset-jtf-style: true
+filters:
+  # allowlist:
+  #   allowlistConfigPaths:
+  #     - ./textlintallow.yml
+  comments: true
