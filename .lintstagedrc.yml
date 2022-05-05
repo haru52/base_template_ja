@@ -2,9 +2,6 @@
 "*":
   - secretlint
   - prettier -c
-"*.{md,markdown}":
-  - markdownlint
-  - textlint
-"*.txt": textlint
+"*.{md,markdown}": markdownlint
 "{*.sh,.husky/*}": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint

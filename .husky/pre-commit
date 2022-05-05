@@ -3,3 +3,8 @@
 . "$(dirname "$0")/_/husky.sh"
 
 npx lint-staged
+
+# .textlintignoreでfoo.mdを無視するように指定していたとしても、
+# `textlint foo.md` を実行するとfoo.mdに対してlintが実行されてしまう。
+# そこで、textlintについてはlint-staged内ではなく個別に実行する
+npm run lint:text
