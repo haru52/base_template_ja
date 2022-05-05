@@ -77,6 +77,11 @@
 
 [WTFPL](LICENSE)
 
+## 言語
+
+- [English](https://github.com/haru52/base_template#readme)（本家）
+- 日本語（当リポジトリ）
+
 ## コントリビューション
 
 [コントリビューティングガイドライン](CONTRIBUTING.md)
