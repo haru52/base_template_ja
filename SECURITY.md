@@ -1,18 +1,16 @@
-# Security Policy
+# セキュリティポリシー
 
-## Supported Versions
+## サポートバージョン
 
-| Version                                                              | Supported |
-| -------------------------------------------------------------------- | --------- |
-| [Latest](https://github.com/haru52/base_template_ja/releases/latest) | ✅        |
-| Others                                                               | ❌        |
+|                              バージョン                              | サポート |
+| -------------------------------------------------------------------- | -------- |
+| [最新版](https://github.com/haru52/base_template_ja/releases/latest) | ✅       |
+| その他                                                               | ❌       |
 
-## Reporting a Vulnerability
+## 脆弱性の報告
 
-Use this section to tell people how to report a vulnerability.
+このセクションでは脆弱性を報告する方法を説明してください。
 
 <!-- textlint-disable japanese/sentence-length -->
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+脆弱性を報告するにはどこにアクセスすれば良いのか、報告された脆弱性についての更新情報をどのくらいの頻度で受け取ることを期待できるのか、脆弱性が承認または拒否された場合に何を期待できるのか、などを説明してください。
 <!-- textlint-enable japanese/sentence-length -->
