@@ -1,4 +1,4 @@
-# ベーステンプレートリポジトリ
+# 【ドラフト】ベーステンプレートリポジトリ
 
 [![Test](https://github.com/haru52/base_template_ja/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template_ja/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/release.yml)
@@ -30,7 +30,7 @@
 
 ## 利用方法
 
-1. GitHubでこのリポジトリのページを開く
+1. GitHubで当リポジトリのページを開く
 2. `Use this template` ボタンをクリック
 3. リポジトリが作成されたら `https://github.com/<org>/<repo>/settings/actions` を開く
 4. `Workflow permissions` 設定の `Read and write permissions` オプションが選択されていない場合はこれを選択する。また、`Allow GitHub Actions to approve pull requests` がチェックさていない場合はこれをチェックし、`Save` ボタンをクリック
@@ -49,7 +49,7 @@
 | CI/CD                            | [GitHub Actions](https://github.com/features/actions)                        |
 | コードレビュー                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                   |
 | リリース                         | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)    |
-| 依存パッケージ更新               | [Dependabot](https://docs.github.com/en/code-security/dependabot)            |
+| 依存パッケージ更新               | [Dependabot](https://docs.github.com/ja/code-security/dependabot)            |
 | Lint：Gitステージ                | [lint-staged](https://github.com/okonet/lint-staged#readme)                  |
 | Lint：Gitコミットメッセージ      | [commitlint](https://commitlint.js.org/)                                     |
 | Lint：クレデンシャル             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
@@ -80,7 +80,7 @@
 ## 言語
 
 - [English](https://github.com/haru52/base_template#readme)（本家）
-- 日本語（当リポジトリ）
+- 【ドラフト】日本語（当リポジトリ）
 
 ## コントリビューション
 
