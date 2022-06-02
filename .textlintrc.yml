@@ -3,7 +3,10 @@ rules:
   preset-japanese: true
   preset-jtf-style: true
 filters:
+  # textlint-filter-rule-allowlistを使う場合は以下の指示に従ってください
+  # 1. `npm i -D textlint-filter-rule-allowlist` を実行
+  # 2. ./textlintallow.yml の中身を適切に編集
+  # 3. 次の2行をアンコメント
   # allowlist:
-  #   allowlistConfigPaths:
-  #     - ./textlintallow.yml
+  #   allowlistConfigPaths: [./textlintallow.yml]
   comments: true
