@@ -1,27 +1,25 @@
-# Contributing Guideline
+# コントリビューティングガイドライン
 
-## Rules
+## 規約
 
-| Category               | Rule                                                                                                                                         |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Git commit             | [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)                                                                |
-|                        | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#readme) |
-| Git branching strategy | [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)                                                                 |
-| Versioning             | [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)                                                                             |
+|   カテゴリー    |                                                                    規約                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gitコミット     | [Conventional Commits v1.0.0](https://www.conventionalcommits.org/ja/v1.0.0/)                                                              |
+|                 | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#readme) |
+| Gitブランチ戦略 | [GitHub flow](https://docs.github.com/ja/get-started/quickstart/github-flow)                                                               |
+| バージョニング  | [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)                                                         |
 
-## Development flow
+## 開発フロー
 
-<!-- textlint-disable japanese/sentence-length -->
-1. Fork this repository
-2. Develop and create a Pull Request (PR) according to the above rules
-3. This repository maintainers will review the PR
-4. The maintainers will merge the PR branch if they approved it, otherwise they will close it without merging
-<!-- textlint-enable japanese/sentence-length -->
+1. 当リポジトリをフォーク
+2. フォークしたリポジトリ上で上述の規約に従って開発し、Pull Request (PR) を作成
+3. 当リポジトリのメンテナーがPRをレビュー
+4. メンテナーがPRを承認した場合、メンテナーがPRブランチをマージします。否認した場合はマージせずにクローズします
 
-## Installation
+## インストール
 
 ```sh
-gh repo clone <your org>/base_template_ja # Clone the repository
+gh repo clone <your org>/base_template_ja # フォークしたリポジトリをクローン
 cd base_template_ja
 make
 ```
@@ -32,12 +30,12 @@ make
 make lint
 ```
 
-## Git commit
+## Gitコミット
 
 ```sh
-npm run commit # Commitizen with commitlint adapter
+npm run commit # commitlintアダプターを伴ったCommitizenを利用
 # or
-npm run cm     # alias for `npm run commit`
+npm run cm     # `npm run commit` のエイリアス
 # or
-git commit     # standard Git commit
+git commit     # 通常のGitコミット
 ```
