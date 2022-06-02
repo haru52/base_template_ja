@@ -3,6 +3,8 @@
     "DavidAnson.vscode-markdownlint",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
+    "RomanPeshkov.vscode-text-tables",
+    "shuworks.vscode-table-formatter",
     "taichi.vscode-textlint",
     "timonwong.shellcheck"
   ]
