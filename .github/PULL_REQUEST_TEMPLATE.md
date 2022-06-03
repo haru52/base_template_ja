@@ -2,20 +2,32 @@
 
 ## Linked issues
 
-<!-- 
-e.g.,
+<!--
+例：
 
 - Resolve #1
 - Fix #2
 -->
 
-## Description
+## 期限
 
-## References
+<!--
+例：
 
-<!-- 
-e.g.,
+yyyy-MM-dd
 
-- [Reference A](https://example.com/)
+または、
+
+linked issues参照。
+-->
+
+## 詳細
+
+## 参考
+
+<!--
+例：
+
+- [参考ページA](https://example.com/)
 - #3
 -->
