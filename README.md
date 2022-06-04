@@ -1,4 +1,4 @@
-# 【ドラフト】ベーステンプレートリポジトリ
+# ベーステンプレートリポジトリ
 
 [![Test](https://github.com/haru52/base_template_ja/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template_ja/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/release.yml)
@@ -49,7 +49,7 @@
 | CI/CD                            | [GitHub Actions](https://github.com/features/actions)                        |
 | コードレビュー                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                   |
 | リリース                         | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)    |
-| 依存パッケージ更新               | [Dependabot](https://docs.github.com/ja/code-security/dependabot)            |
+| 依存性更新                       | [Dependabot](https://docs.github.com/ja/code-security/dependabot)            |
 | Lint：Gitステージ                | [lint-staged](https://github.com/okonet/lint-staged#readme)                  |
 | Lint：Gitコミットメッセージ      | [commitlint](https://commitlint.js.org/)                                     |
 | Lint：クレデンシャル             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
@@ -80,7 +80,7 @@
 ## 言語
 
 - [English](https://github.com/haru52/base_template#readme)（本家）
-- 【ドラフト】日本語（当リポジトリ）
+- 日本語（当リポジトリ）
 
 ## コントリビューション
 
