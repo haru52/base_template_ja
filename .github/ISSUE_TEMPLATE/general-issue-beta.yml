@@ -7,7 +7,7 @@ body:
     id: deadline
     attributes:
       label: 期限
-      description: このissueはいつまでに完了すべきですか？それはなぜですか？
+      description: このissueはいつまでに完了すべきですか？また、それはなぜですか？
       placeholder: 例：yyyy-MM-dd
   - type: textarea
     id: requirements
