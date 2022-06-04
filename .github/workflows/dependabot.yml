@@ -1,6 +1,6 @@
 ---
 # https://docs.github.com/ja/code-security/dependabot/working-with-dependabot/automating-dependabot-with-github-actions
-name: Dependabot自動承認／マージ
+name: Dependabot auto-approve/merge
 "on": pull_request
 permissions:
   contents: write
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor == 'dependabot[bot]'
     steps:
-      - name: Dependabotメタデータ
+      - name: Dependabot metadata
         id: metadata
         uses: dependabot/fetch-metadata@v1
-      - name: PRの承認と自動マージ
+      - name: Approve and auto-merge the PR
         if: steps.metadata.outputs.update-type == 'version-update:semver-minor' || steps.metadata.outputs.update-type == 'version-update:semver-patch'
         run: |
           gh pr review --approve "$PR_URL"
@@ -26,7 +26,7 @@ jobs:
       # 依存性更新がマイナーアップデートとパッチアップデートのどちらでもないときに特定のユーザーに
       # 自動でPRレビューを依頼する場合、以下のステップをアンコメントしてください。
       # 注意：リポジトリの可視性がプライベートの場合、以下のステップは失敗する可能性があります。
-      # - name: PRレビュー依頼
+      # - name: Request reviews for the PR
       #   if: steps.metadata.outputs.update-type != 'version-update:semver-minor' && steps.metadata.outputs.update-type != 'version-update:semver-patch'
       #   run: gh pr edit "$PR_URL" --add-reviewer <login>
       #   env:
