@@ -1,7 +1,7 @@
 {
   "name": "base-template-ja",
   "version": "0.1.0",
-  "description": "Fully automated template repository which provides full compliance with the community standards.",
+  "description": "完全に自動化されたテンプレートリポジトリです。コミュニティスタンダードに完全準拠しています。",
   "private": true,
   "engines": {
     "node": "^16.15.1",
