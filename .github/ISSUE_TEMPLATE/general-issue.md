@@ -1,47 +1,47 @@
 ---
-name: General issue
-about: General issue.
+name: 一般issue
+about: 一般用途用のissue。
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Deadline
+## 期限
 
-<!-- e.g., yyyy-MM-dd -->
+<!-- 例： yyyy-MM-dd -->
 
-## Requirements
+## 開始要件
 
 <!--
-e.g.,
+例：
 
-All the following issues are resolved.
+以下の全issuesの解決。
 
 - #1
 - #2
 -->
 
-## Tasks
+## タスク
 
 <!--
-e.g.,
+例：
 
-- [ ] Task A
-- [ ] Task B
+- [ ] タスクA
+- [ ] タスクB
 -->
 
-## Goal
+## 完了条件
 
-Completion of all the tasks.
+全タスクの完了。
 
-## Description
+## 詳細
 
-## References
+## 参考
 
 <!--
-e.g.,
+例：
 
-- [Reference A](https://example.com/)
+- [参考ページA](https://example.com/)
 - #3
 -->

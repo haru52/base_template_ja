@@ -1,49 +1,49 @@
 ---
-name: General issue (beta)
-description: General issue (beta).
+name: 一般issue（ベータ）
+description: 一般用途用のissue（ベータ）。
 labels: []
 body:
   - type: textarea
     id: deadline
     attributes:
-      label: Deadline
-      description: By when should this issue be completed? And why?
-      placeholder: e.g., yyyy-MM-dd
+      label: 期限
+      description: このissueはいつまでに完了すべきですか？それはなぜですか？
+      placeholder: 例：yyyy-MM-dd
   - type: textarea
     id: requirements
     attributes:
-      label: Requirements
-      description: What is required to start this issue?
+      label: 開始要件
+      description: このissueの開始には何が必要ですか？
       placeholder: |
-        All the following issues are resolved.
+        以下の全issuesの解決。
 
         - #1
         - #2
   - type: textarea
     id: tasks
     attributes:
-      label: Tasks
-      description: What tasks does this issue consist of?
+      label: タスク
+      description: このissueを構成するタスクは何ですか？
       placeholder: |
-        - [ ] Task A
-        - [ ] Task B
+        - [ ] タスクA
+        - [ ] タスクB
   - type: textarea
     id: goal
     attributes:
-      label: Goal
-      description: What is the goal of this issue?
-      placeholder: Completion of all the tasks.
-      value: Completion of all the tasks.
+      label: 完了条件
+      description: このissueの完了条件は何ですか？
+      placeholder: 全タスクの完了。
+      value: 全タスクの完了。
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Input the detailed description of this issue.
+      label: 詳細
+      description: このissueについての詳細を入力してください。
   - type: textarea
     id: references
     attributes:
-      label: References
-      description: Input references of this issue.
+      label: 参考
+      description: このissueについての参考情報を入力してください。
       placeholder: |
-        - [Reference A](https://example.com/)
+        - [参考ページA](https://example.com/)
         - #3
