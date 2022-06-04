@@ -19,12 +19,12 @@ jobs:
       - run: npm ci
       - name: "Lint: credentials"
         run: npx secretlint "**/*"
+      - name: "Lint: npm"
+        run: npm run lint
       - name: "Lint: Git commit message"
         uses: wagoid/commitlint-github-action@v4
         with:
           configFile: .commitlintrc.yml
-      - name: "Lint: npm"
-        run: npm run lint
       - name: "Lint: shell script"
         uses: ludeeus/action-shellcheck@master
         with:
