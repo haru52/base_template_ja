@@ -1,8 +1,11 @@
 {
   "recommendations": [
+    "christian-kohler.npm-intellisense",
     "DavidAnson.vscode-markdownlint",
-    "editorconfig.editorconfig",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
+    "ms-vscode.makefile-tools",
     "RomanPeshkov.vscode-text-tables",
     "shuworks.vscode-table-formatter",
     "taichi.vscode-textlint",
