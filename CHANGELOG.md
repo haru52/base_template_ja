@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/haru52/base_template_ja/compare/v1.1.0...v1.2.0) (2022-06-07)
+
+
+### Features
+
+* **chore:** 全角文字と半角文字の間に半角スペースを挿入 ([c0593ca](https://github.com/haru52/base_template_ja/commit/c0593ca8e1ccf4af28ce5445d23464bb760ad5e4))
+
 ## [1.1.0](https://github.com/haru52/base_template_ja/compare/v1.0.0...v1.1.0) (2022-06-07)
 
 
