@@ -21,6 +21,7 @@
 | GitHubアカウント                                            |                                                      |
 | Node.js, npm                                                | [package.json](package.json) における `engines` の値 |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                              |
+| [yamllint](https://yamllint.readthedocs.io/)                | >=1.26.3                                             |
 | [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                              |
 | [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                     |
 
@@ -55,8 +56,9 @@
 | Lint：クレデンシャル             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
 | Lint：Markdown                   | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme) |
 | Lint：テキスト（散文）           | [textlint](https://textlint.github.io/)                                      |
+| Lint: YAML                       | [yamllint](https://yamllint.readthedocs.io/)                                 |
 | Lint：シェルスクリプト           | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                  |
-| Lint：YAML、その他               | [Prettier](https://prettier.io/)                                             |
+| Lint：JSON、その他               | [Prettier](https://prettier.io/)                                             |
 | Lint：GitHub Actionsワークフロー | [actionlint](https://github.com/rhysd/actionlint#readme)                     |
 
 ### コミュニティスタンダード

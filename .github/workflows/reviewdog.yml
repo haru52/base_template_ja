@@ -20,6 +20,10 @@ jobs:
         uses: tsuyoshicho/action-textlint@v3
         with:
           textlint_flags: . .?*/**
+      - name: yamllint
+        uses: reviewdog/action-yamllint@v1
+        with:
+          reporter: github-pr-review
       - name: ShellCheck
         uses: reviewdog/action-shellcheck@v1
         with:

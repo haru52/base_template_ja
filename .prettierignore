@@ -1,3 +1,7 @@
 # Prettierではなくmarkdownlint-cliを使う
 *.md
 *.markdown
+
+# Prettierではなくyamllintを使う
+*.yml
+*.yaml
