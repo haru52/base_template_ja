@@ -1,7 +1,7 @@
-# Prettierではなくmarkdownlint-cliを使う
+# Prettier ではなく markdownlint-cli を使う
 *.md
 *.markdown
 
-# Prettierではなくyamllintを使う
+# Prettier ではなく yamllint を使う
 *.yml
 *.yaml

@@ -1,6 +1,6 @@
 ---
-name: 一般issue
-about: 一般用途用のissue。
+name: 一般 issue
+about: 一般用途用の issue。
 title: ''
 labels: ''
 assignees: ''
@@ -16,7 +16,7 @@ assignees: ''
 <!--
 例：
 
-以下の全issuesの解決。
+以下の全 issues の解決。
 
 - #1
 - #2
@@ -27,8 +27,8 @@ assignees: ''
 <!--
 例：
 
-- [ ] タスクA
-- [ ] タスクB
+- [ ] タスク A
+- [ ] タスク B
 -->
 
 ## 完了条件
@@ -42,6 +42,6 @@ assignees: ''
 <!--
 例：
 
-- [参考ページA](https://example.com/)
+- [参考ページ A](https://example.com/)
 - #3
 -->

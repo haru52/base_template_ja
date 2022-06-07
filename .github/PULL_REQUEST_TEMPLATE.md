@@ -18,7 +18,7 @@ yyyy-MM-dd
 
 または、
 
-linked issues参照。
+linked issues 参照。
 -->
 
 ## 詳細
@@ -28,6 +28,6 @@ linked issues参照。
 <!--
 例：
 
-- [参考ページA](https://example.com/)
+- [参考ページ A](https://example.com/)
 - #3
 -->
