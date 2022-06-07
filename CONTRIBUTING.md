@@ -12,12 +12,13 @@
 
 ## 規約
 
-|   カテゴリー    |                                                                    規約                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Gitコミット     | [Conventional Commits v1.0.0](https://www.conventionalcommits.org/ja/v1.0.0/)                                                              |
-|                 | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#readme) |
-| Gitブランチ戦略 | [GitHub flow](https://docs.github.com/ja/get-started/quickstart/github-flow)                                                               |
-| バージョニング  | [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)                                                         |
+|    カテゴリー     |                                                                    規約                                                                    |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gitコミット       | [Conventional Commits v1.0.0](https://www.conventionalcommits.org/ja/v1.0.0/)                                                              |
+|                   | [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#readme) |
+| Gitブランチ戦略   | [GitHub flow](https://docs.github.com/ja/get-started/quickstart/github-flow)                                                               |
+| バージョニング    | [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)                                                         |
+| GitHub PRタイトル | コミットメッセージ規約と同じ                                                                                                               |
 
 ## 開発フロー
 

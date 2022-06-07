@@ -32,25 +32,26 @@
 
 ### 技術スタック
 
-|            カテゴリー            |                                    ツール                                    |
-| -------------------------------- | ---------------------------------------------------------------------------- |
-| IDE／エディタ設定                | [EditorConfig](https://editorconfig.org/)                                    |
-| .gitignore管理                   | [gibo](https://github.com/simonwhitaker/gibo#readme)                         |
-| Gitフック                        | [Husky](https://typicode.github.io/husky)                                    |
-| GitコミットI/F                   | [Commitizen](https://commitizen.github.io/cz-cli/)                           |
-| CI/CD                            | [GitHub Actions](https://github.com/features/actions)                        |
-| コードレビュー                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                   |
-| リリース                         | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)    |
-| 依存性更新                       | [Dependabot](https://docs.github.com/ja/code-security/dependabot)            |
-| Lint：Gitステージ                | [lint-staged](https://github.com/okonet/lint-staged#readme)                  |
-| Lint：Gitコミットメッセージ      | [commitlint](https://commitlint.js.org/)                                     |
-| Lint：クレデンシャル             | [Secretlint](https://github.com/secretlint/secretlint#readme)                |
-| Lint：Markdown                   | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme) |
-| Lint：テキスト（散文）           | [textlint](https://textlint.github.io/)                                      |
-| Lint: YAML                       | [yamllint](https://yamllint.readthedocs.io/)                                 |
-| Lint：シェルスクリプト           | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                  |
-| Lint：JSON、その他               | [Prettier](https://prettier.io/)                                             |
-| Lint：GitHub Actionsワークフロー | [actionlint](https://github.com/rhysd/actionlint#readme)                     |
+|            カテゴリー            |                                        ツール                                         |
+| -------------------------------- | ------------------------------------------------------------------------------------- |
+| IDE／エディタ設定                | [EditorConfig](https://editorconfig.org/)                                             |
+| .gitignore管理                   | [gibo](https://github.com/simonwhitaker/gibo#readme)                                  |
+| Gitフック                        | [Husky](https://typicode.github.io/husky)                                             |
+| GitコミットI/F                   | [Commitizen](https://commitizen.github.io/cz-cli/)                                    |
+| CI/CD                            | [GitHub Actions](https://github.com/features/actions)                                 |
+| コードレビュー                   | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                            |
+| リリース                         | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)             |
+| 依存性更新                       | [Dependabot](https://docs.github.com/ja/code-security/dependabot)                     |
+| Lint：Gitステージ                | [lint-staged](https://github.com/okonet/lint-staged#readme)                           |
+| Lint：Gitコミットメッセージ      | [commitlint](https://commitlint.js.org/)                                              |
+| Lint：クレデンシャル             | [Secretlint](https://github.com/secretlint/secretlint#readme)                         |
+| Lint：Markdown                   | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme)          |
+| Lint：テキスト（散文）           | [textlint](https://textlint.github.io/)                                               |
+| Lint: YAML                       | [yamllint](https://yamllint.readthedocs.io/)                                          |
+| Lint：シェルスクリプト           | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                           |
+| Lint：JSON、その他               | [Prettier](https://prettier.io/)                                                      |
+| Lint：GitHub Actionsワークフロー | [actionlint](https://github.com/rhysd/actionlint#readme)                              |
+| Lint: GitHub PRタイトル          | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |
 
 ### コミュニティスタンダード
 
