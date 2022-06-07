@@ -3,5 +3,6 @@
   - secretlint
   - prettier -c
 "*.{md,markdown}": markdownlint
+"*.{yml,yaml}": make lint-yaml
 "{*.sh,.husky/*}": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint

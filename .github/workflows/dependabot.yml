@@ -14,21 +14,29 @@ jobs:
         id: metadata
         uses: dependabot/fetch-metadata@v1
       - name: Approve and auto-merge the PR
-        if: steps.metadata.outputs.update-type == 'version-update:semver-minor' || steps.metadata.outputs.update-type == 'version-update:semver-patch'
+        if: >
+          steps.metadata.outputs.update-type == 'version-update:semver-minor' ||
+          steps.metadata.outputs.update-type == 'version-update:semver-patch'
         run: |
           gh pr review --approve "$PR_URL"
-          # 当リポジトリのauto-merge設定とデフォルトブランチ（例：main）に対する保護の両方が有効な
-          # 場合、次の行をアンコメントできます。
+          # 当リポジトリのauto-merge設定とデフォルトブランチ（例：main）に対する
+          # 保護の両方が有効な場合、次の行をアンコメントできます。
           # gh pr merge --auto --merge "$PR_URL"
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # 依存性更新がマイナーアップデートとパッチアップデートのどちらでもないときに特定のユーザーに
-      # 自動でPRレビューを依頼する場合、以下のステップをアンコメントしてください。
-      # 注意：リポジトリの可視性がプライベートの場合、以下のステップは失敗する可能性があります。
+# yamllint disable rule:comments-indentation rule:line-length
+      # 依存性更新がマイナーアップデートとパッチアップデートのどちらでもないとき
+      # に特定のユーザーに自動でPRレビューを依頼する場合、以下のステップを
+      # アンコメントしてください。
+      # 注意：リポジトリの可視性がプライベートの場合、
+      # 以下のステップは失敗する可能性があります。
       # - name: Request reviews for the PR
-      #   if: steps.metadata.outputs.update-type != 'version-update:semver-minor' && steps.metadata.outputs.update-type != 'version-update:semver-patch'
+      #   if: >
+      #     steps.metadata.outputs.update-type != 'version-update:semver-minor' &&
+      #     steps.metadata.outputs.update-type != 'version-update:semver-patch'
       #   run: gh pr edit "$PR_URL" --add-reviewer <login>
       #   env:
       #     PR_URL: ${{ github.event.pull_request.html_url }}
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# yamllint enable rule:comments-indentation rule:line-length
