@@ -16,14 +16,7 @@
 
 ## 動作要件
 
-|                           ツール                            |                      バージョン                      |
-| ----------------------------------------------------------- | ---------------------------------------------------- |
-| GitHubアカウント                                            |                                                      |
-| Node.js, npm                                                | [package.json](package.json) における `engines` の値 |
-| [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                              |
-| [yamllint](https://yamllint.readthedocs.io/)                | >=1.26.3                                             |
-| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                              |
-| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                     |
+- GitHubアカウント
 
 ## インストール
 
@@ -33,9 +26,7 @@
 
 1. GitHubで当リポジトリのページを開く
 2. `Use this template` ボタンをクリック
-3. リポジトリが作成されたら `https://github.com/<org>/<repo>/settings/actions` を開く
-4. `Workflow permissions` 設定の `Read and write permissions` オプションが選択されていない場合はこれを選択する。また、`Allow GitHub Actions to approve pull requests` がチェックさていない場合はこれをチェックし、`Save` ボタンをクリック
-5. お疲れ様でした！これにて快適な環境でコーディングする準備が整いました 🎉
+3. お疲れ様でした！これにて快適な環境でコーディングする準備が整いました 🎉
 
 ## 詳細
 
@@ -70,6 +61,17 @@
 [![Security overview](images/security_overview.png)](https://github.com/haru52/base_template_ja/security)
 
 なぜ `Code scannig alerts` 機能がセットアップされていないのでしょうか？それは、このリポジトリにはスキャン対象となるコードが存在しないためです！もちろん、あなたのプロジェクトに応じてこの機能をセットアップすることもできます。
+
+### トラブルシューティング
+
+この方法で問題が解決しない場合、[issueを作成](https://github.com/haru52/base_template_ja/issues/new/choose)してください。
+
+#### CIが失敗する
+
+1. `https://github.com/<org>/<repo>/settings/actions` を開く
+2. `Workflow permissions` 設定の `Read and write permissions` オプションが選択されていない場合はこれを選択
+3. `Allow GitHub Actions to approve pull requests` がチェックさていない場合はこれをチェック
+4. `Save` ボタンをクリック
 
 ## バージョニング
 
