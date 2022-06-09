@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/haru52/base_template_ja/compare/v1.2.0...v1.3.0) (2022-06-09)
+
+
+### Features
+
+* **ci:** dependabot によるコミットの場合、CI での commitlint の実行をスキップするように変更 ([2f4377d](https://github.com/haru52/base_template_ja/commit/2f4377dc1a4d3f39a34abacdf4bb3c71838fdd44))
+
 ## [1.2.0](https://github.com/haru52/base_template_ja/compare/v1.1.0...v1.2.0) (2022-06-07)
 
 
