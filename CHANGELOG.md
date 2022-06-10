@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/haru52/base_template_ja/compare/v1.3.0...v1.4.0) (2022-06-10)
+
+
+### Features
+
+* **chore:** 省略形のオプション名ではなく記述的なオプション名を使うように変更 ([42964d2](https://github.com/haru52/base_template_ja/commit/42964d2240600bdf43c4159f646e9dc65a107a3d))
+
 ## [1.3.0](https://github.com/haru52/base_template_ja/compare/v1.2.0...v1.3.0) (2022-06-09)
 
 
