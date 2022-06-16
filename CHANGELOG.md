@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/haru52/base_template_ja/compare/v1.5.0...v1.6.0) (2022-06-16)
+
+
+### Features
+
+* **chore:** makefile の lint タスクを簡潔になるよう変更 ([30e19d3](https://github.com/haru52/base_template_ja/commit/30e19d36b3453a1b15752126ebde4c537aa4750d))
+
 ## [1.5.0](https://github.com/haru52/base_template_ja/compare/v1.4.0...v1.5.0) (2022-06-16)
 
 
