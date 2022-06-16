@@ -1,3 +1,11 @@
+## [1.5.0](https://github.com/haru52/base_template_ja/compare/v1.4.0...v1.5.0) (2022-06-16)
+
+
+### Features
+
+* **chore:** makefile の .PHONY の記述をまとめる ([a5d1105](https://github.com/haru52/base_template_ja/commit/a5d11054945f9aedac55335cc0bd0140d46459df))
+* **chore:** 依存 npm パッケージ更新 ([60e68bd](https://github.com/haru52/base_template_ja/commit/60e68bd285d8556fa2a2791f7c2bc34f1e66f84d))
+
 ## [1.4.0](https://github.com/haru52/base_template_ja/compare/v1.3.0...v1.4.0) (2022-06-10)
 
 
