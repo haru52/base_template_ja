@@ -1,3 +1,11 @@
+## [1.7.0](https://github.com/haru52/base_template_ja/compare/v1.6.0...v1.7.0) (2022-06-17)
+
+
+### Features
+
+* **build:** 依存 npm パッケージ更新 ([ffb4b52](https://github.com/haru52/base_template_ja/commit/ffb4b5276e9d306546014c2fbbf958db4a04af52))
+* **ci:** github actions のバージョン指定方法を変更 ([b4817c2](https://github.com/haru52/base_template_ja/commit/b4817c2fa5786531d43f91aa89da45a0bd2e30b4))
+
 ## [1.6.0](https://github.com/haru52/base_template_ja/compare/v1.5.0...v1.6.0) (2022-06-16)
 
 
