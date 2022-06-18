@@ -1,3 +1,11 @@
+## [1.8.0](https://github.com/haru52/base_template_ja/compare/v1.7.0...v1.8.0) (2022-06-18)
+
+
+### Features
+
+* **ci:** 不要な括弧（`${{ 条件 }}`）を削除 ([5278776](https://github.com/haru52/base_template_ja/commit/52787764a8182d8f6b45570493118ce0ae122131))
+* **docs:** コントリビューティングガイドラインを更新 ([4c59136](https://github.com/haru52/base_template_ja/commit/4c59136766ff551c11935d4cc86ff4d644f98b09))
+
 ## [1.7.0](https://github.com/haru52/base_template_ja/compare/v1.6.0...v1.7.0) (2022-06-17)
 
 
