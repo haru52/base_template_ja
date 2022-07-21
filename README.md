@@ -28,6 +28,10 @@
 2. `Use this template` ボタンをクリック
 3. お疲れ様でした！これにて快適な環境でコーディングする準備が整いました 🎉
 
+## アップデート
+
+## アンインストール
+
 ## 詳細
 
 ### 技術スタック
@@ -73,6 +77,10 @@
 2. `Workflow permissions` 設定の `Read and write permissions` オプションが選択されていない場合はこれを選択
 3. `Allow GitHub Actions to approve pull requests` がチェックさていない場合はこれをチェック
 4. `Save` ボタンをクリック
+
+### 既存リポジトリへのテンプレート適用
+
+[Base Template CLI](https://github.com/haru52/base_template_cli#readme) をご利用ください。
 
 ## バージョニング
 
