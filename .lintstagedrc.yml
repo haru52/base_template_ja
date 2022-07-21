@@ -4,5 +4,6 @@
   - prettier --check
 "*.{md,markdown}": markdownlint
 "*.{yml,yaml}": make lint-yaml
-"{*.sh,.husky/*}": shellcheck
+"*.sh": shellcheck
+".husky/*": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint
