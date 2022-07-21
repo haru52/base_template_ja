@@ -32,7 +32,7 @@
 ```sh
 gh repo clone <your org>/base_template_ja # フォークしたリポジトリをクローン
 cd base_template_ja
-make
+make dev-install
 ```
 
 ## Lint
