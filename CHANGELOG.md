@@ -1,3 +1,26 @@
+## [2.0.0](https://github.com/haru52/base_template_ja/compare/v1.8.0...v2.0.0) (2022-07-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** 非推奨になった VS Code 拡張機能の `eg2.vscode-npm-script` をプロジェクトの推奨リストから除外
+* **chore:** make install を make dev-install にリネーム
+
+### Features
+
+* **build:** actionlint を 1.6.13 から 1.6.15 に更新 ([7c115bb](https://github.com/haru52/base_template_ja/commit/7c115bb1fc9899e33cbfc1fafff6b3e3608437e8))
+* **build:** node.js を16.15.1 から 16.16.0 に更新 ([a64a2f6](https://github.com/haru52/base_template_ja/commit/a64a2f6f9cbb8b659bec84e0fc3180d8495688e7))
+* **build:** 依存 npm パッケージを更新 ([8cee368](https://github.com/haru52/base_template_ja/commit/8cee36859125a9215ea45610a3f6d35eb2c41f48))
+* **chore:** make install を make dev-install にリネーム ([6c78933](https://github.com/haru52/base_template_ja/commit/6c7893326e778b1b4ac7a60bb5340f7a93561b3e))
+* **chore:** 非推奨になった VS Code 拡張機能の `eg2.vscode-npm-script` をプロジェクトの推奨リストから除外 ([4799694](https://github.com/haru52/base_template_ja/commit/47996944a0a6e43708d6e61f68d60d55148e7dc9))
+* **docs:** コントリビューティングガイドラインを更新 ([c2b65a6](https://github.com/haru52/base_template_ja/commit/c2b65a67249fcbd44dbf5e944eb13beb24d5926e))
+* **docs:** コントリビューティングガイドラインを更新 ([88f061f](https://github.com/haru52/base_template_ja/commit/88f061f7d2eb74346d57859300de64d99ae9b027))
+
+
+### Bug Fixes
+
+* **chore:** lint-staged で全ての `*.sh` に対して lint を実行するように修正 ([a04efc1](https://github.com/haru52/base_template_ja/commit/a04efc1c772cf84169a27d7581374900564fe3ff))
+
 ## [1.8.0](https://github.com/haru52/base_template_ja/compare/v1.7.0...v1.8.0) (2022-06-18)
 
 
