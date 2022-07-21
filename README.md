@@ -30,7 +30,11 @@
 
 ## アップデート
 
+当テンプレートを元に作成したリポジトリへ最新のベーステンプレートのファイルを適用するには、[Base Template CLI][base-template-cli] をご利用ください。
+
 ## アンインストール
+
+特になし。
 
 ## 詳細
 
@@ -80,7 +84,7 @@
 
 ### 既存リポジトリへのテンプレート適用
 
-[Base Template CLI](https://github.com/haru52/base_template_cli#readme) をご利用ください。
+[Base Template CLI][base-template-cli] をご利用ください。
 
 ## バージョニング
 
@@ -102,3 +106,5 @@
 ## 作者
 
 [haru](https://haru52.com/)
+
+[base-template-cli]: https://github.com/haru52/base_template_cli#readme
