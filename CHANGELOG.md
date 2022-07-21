@@ -1,3 +1,12 @@
+## [2.1.0](https://github.com/haru52/base_template_ja/compare/v2.0.0...v2.1.0) (2022-07-21)
+
+
+### Features
+
+* **build:** npm 依存パッケージのバージョン指定方法を変更（修正） ([4dcadf9](https://github.com/haru52/base_template_ja/commit/4dcadf9de4f3d679096047032be1ec0970e0c491))
+* **docs:** readme を更新 ([ff5e9a8](https://github.com/haru52/base_template_ja/commit/ff5e9a8841effaa9962c23a5d2be4498099e1976))
+* **docs:** readme を更新 ([faec95e](https://github.com/haru52/base_template_ja/commit/faec95eada13ed3bed5330b5bccda70113e65d6e))
+
 ## [2.0.0](https://github.com/haru52/base_template_ja/compare/v1.8.0...v2.0.0) (2022-07-21)
 
 
