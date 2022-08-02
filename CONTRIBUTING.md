@@ -5,9 +5,9 @@
 |                           ツール                            |                      バージョン                      |
 | ----------------------------------------------------------- | ---------------------------------------------------- |
 | Node.js, npm                                                | [package.json](package.json) における `engines` の値 |
-| [gibo](https://github.com/simonwhitaker/gibo#readme)        | >=2.2.7                                              |
-| [yamllint](https://yamllint.readthedocs.io/)                | >=1.27.1                                             |
-| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0                                              |
+| [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.7                                               |
+| [yamllint](https://yamllint.readthedocs.io/)                | ^1.27.1                                              |
+| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0 <1.0.0                                       |
 | [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                     |
 
 ## 規約
