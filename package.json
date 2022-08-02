@@ -1,6 +1,6 @@
 {
   "name": "base-template-ja",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "完全に自動化されたテンプレートリポジトリです。コミュニティスタンダードに完全準拠しています。",
   "private": true,
   "engines": {

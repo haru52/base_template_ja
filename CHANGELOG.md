@@ -1,3 +1,12 @@
+## [2.2.0](https://github.com/haru52/base_template_ja/compare/v2.1.0...v2.2.0) (2022-08-02)
+
+
+### Features
+
+* **build:** npm パッケージを更新 ([b19d1b1](https://github.com/haru52/base_template_ja/commit/b19d1b1b0abdafa40bfe3316cbb18ace53b89fc5))
+* **docs:** readme の「バージョニング」という見出しを「バージョニングポリシー」に変更 ([2f292b4](https://github.com/haru52/base_template_ja/commit/2f292b4a91f6df3c18a88f031817a575d5862ad7))
+* **docs:** コントリビューティングガイドラインの動作要件の表を更新 ([08c08f2](https://github.com/haru52/base_template_ja/commit/08c08f2610fc991dab5a44388c6fff46cc53dec7))
+
 ## [2.1.0](https://github.com/haru52/base_template_ja/compare/v2.0.0...v2.1.0) (2022-07-21)
 
 
