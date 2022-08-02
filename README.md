@@ -86,7 +86,7 @@
 
 [Base Template CLI][base-template-cli] をご利用ください。
 
-## バージョニング
+## バージョニングポリシー
 
 [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)
 
