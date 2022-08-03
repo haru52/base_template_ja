@@ -1,3 +1,15 @@
+## [3.0.0](https://github.com/haru52/base_template_ja/compare/v2.2.0...v3.0.0) (2022-08-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** `make lint-yaml` を `make lint-yml` に変更
+
+### Features
+
+* **build:** package-lock.json を更新 ([13bd8a4](https://github.com/haru52/base_template_ja/commit/13bd8a44c95c049c943a1208def2fde054561311))
+* **chore:** `make lint-yaml` を `make lint-yml` に変更 ([826ac66](https://github.com/haru52/base_template_ja/commit/826ac660b0f177ac5d692b3d58312194c5280a1f))
+
 ## [2.2.0](https://github.com/haru52/base_template_ja/compare/v2.1.0...v2.2.0) (2022-08-02)
 
 
