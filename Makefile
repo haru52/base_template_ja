@@ -1,14 +1,14 @@
-.PHONY: dev-install lint lint-npm lint-yaml lint-sh lint-action update-gi
+.PHONY: dev-install lint lint-npm lint-yml lint-sh lint-action update-gi
 
 dev-install:
 	npm ci
 
-lint: lint-npm lint-yaml lint-sh lint-action
+lint: lint-npm lint-yml lint-sh lint-action
 
 lint-npm:
 	npm run lint
 
-lint-yaml:
+lint-yml:
 	yamllint --strict .
 
 lint-sh:
