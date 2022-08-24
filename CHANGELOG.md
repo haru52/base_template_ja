@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/haru52/base_template_ja/compare/v3.0.1...v4.0.0) (2022-08-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **Dependabot:** 毎日（daily）から週一（weekly）に変更
+
+### Features
+
+* **Dependabot:** dependabot の自動実行インターバルを週一に変更 ([4c580d3](https://github.com/haru52/base_template_ja/commit/4c580d3db4c25ca656b8d7533621883e2b4a08ad))
+
 ## [3.0.1](https://github.com/haru52/base_template_ja/compare/v3.0.0...v3.0.1) (2022-08-24)
 
 
