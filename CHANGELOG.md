@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/haru52/base_template_ja/compare/v3.0.0...v3.0.1) (2022-08-24)
+
+
+### Bug Fixes
+
+* .lintstagedrc.yml のバグを修正 ([14885b3](https://github.com/haru52/base_template_ja/commit/14885b35b1d90c3b6b58284424d88b43efc5eb07))
+
 ## [3.0.0](https://github.com/haru52/base_template_ja/compare/v2.2.0...v3.0.0) (2022-08-03)
 
 
