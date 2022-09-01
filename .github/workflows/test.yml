@@ -23,8 +23,8 @@ jobs:
         run: npm run lint
       - name: "Lint: Git commit message"
         # Dependabot によるコミットの場合、commitlint の実行をスキップする。
-        # 理由：Dependabot によるコミットメッセージの 1 行の長さが 100 文字を超
-        # えることがあるため。
+        # 理由：Dependabot によるコミットメッセージ 1 行の長さが 100 文字を
+        # 超えることがあるため。
         if: github.actor != 'dependabot[bot]'
         uses: wagoid/commitlint-github-action@v5
         with:
