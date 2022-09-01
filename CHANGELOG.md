@@ -1,3 +1,11 @@
+## [4.2.0](https://github.com/haru52/base_template_ja/compare/v4.1.0...v4.2.0) (2022-09-01)
+
+
+### Features
+
+* **chore:** 日本語と英数字の間に半角スペースを挿入 ([41dcdaa](https://github.com/haru52/base_template_ja/commit/41dcdaa56f1d30cbbe83eaa7144d2cd7540884f6))
+* **ci:** test.yml のコメントを更新 ([9cc98b8](https://github.com/haru52/base_template_ja/commit/9cc98b8b3b8e4dd12bdcf44eba39998051ef9d51))
+
 ## [4.1.0](https://github.com/haru52/base_template_ja/compare/v4.0.0...v4.1.0) (2022-09-01)
 
 
