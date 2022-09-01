@@ -1,3 +1,18 @@
+## [4.1.0](https://github.com/haru52/base_template_ja/compare/v4.0.0...v4.1.0) (2022-09-01)
+
+
+### Features
+
+* **build:** actionlint を v1.6.17 に更新 ([915acc3](https://github.com/haru52/base_template_ja/commit/915acc3b7dade6339171b5b1edb810ada0240091))
+* **build:** npm 依存パッケージを更新 ([6c3b3a0](https://github.com/haru52/base_template_ja/commit/6c3b3a0187f7c9da2509189197a9bf49f3c713f0))
+* **build:** package.json の engines バージョンを変更 ([7e2ab9b](https://github.com/haru52/base_template_ja/commit/7e2ab9b6111f2e3bb08126bb6ac317d5235fc31e))
+* **chore:** package.json の author の値を更新 ([8a52df9](https://github.com/haru52/base_template_ja/commit/8a52df96be16d484b9eaaad065fbfe11e9630652))
+* **chore:** vs code の推奨拡張機能として arahata.linter-actionlint を追加 ([4a06ed1](https://github.com/haru52/base_template_ja/commit/4a06ed1db9b6e58656d0b1f9f09627a1e2319d7e))
+* **ci:** test ワークフローに、コメントアウト状態の Build、Test ステップを追加 ([869aa4b](https://github.com/haru52/base_template_ja/commit/869aa4bd4bbdfd9f48a37eabadb279b8a47432ce))
+* **docs:** images/security_overview.png を更新 ([814ba1f](https://github.com/haru52/base_template_ja/commit/814ba1fe7bbf13bbd8248ea8e55c1c0ccbb44153))
+* **docs:** readme を更新 ([a5c2219](https://github.com/haru52/base_template_ja/commit/a5c2219506a040ef7ac529aeea25ed3a206e2de8))
+* **docs:** コントリビューティングガイドラインを更新 ([c1a7c43](https://github.com/haru52/base_template_ja/commit/c1a7c4366962f6483b4687e9f33ba3d5305d7484))
+
 ## [4.0.0](https://github.com/haru52/base_template_ja/compare/v3.0.1...v4.0.0) (2022-08-24)
 
 
