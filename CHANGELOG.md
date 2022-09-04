@@ -1,3 +1,10 @@
+## [4.5.0](https://github.com/haru52/base_template_ja/compare/v4.4.0...v4.5.0) (2022-09-04)
+
+
+### Features
+
+* **ci:** test ワークフローを更新 ([c7457c2](https://github.com/haru52/base_template_ja/commit/c7457c255f76ccc2e89959e92a5090b342e8421e))
+
 ## [4.4.0](https://github.com/haru52/base_template_ja/compare/v4.3.0...v4.4.0) (2022-09-04)
 
 
