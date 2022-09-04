@@ -27,6 +27,10 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm ci
+      # 当リポジトリがパブリッシュ前にビルドが必要な npm パッケージプロジェクト
+      # である場合、次のステップをアンコメントしてください。
+      # - name: Build
+      #   run: npm run build --if-present
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -35,4 +39,7 @@ jobs:
           # な場合、上方の `GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}` を削除
           # またはコメントアウトし、次の行をアンコメントしてください。
           # GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          # 当リポジトリが npm パッケージプロジェクトである場合、
+          # 次の行をアンコメントしてください。
+          # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
