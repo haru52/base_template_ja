@@ -30,7 +30,7 @@ jobs:
       # 当リポジトリがパブリッシュ前にビルドが必要な npm パッケージプロジェクト
       # である場合、次のステップをアンコメントしてください。
       # - name: Build
-      #   run: npm run build --if-present
+      #   run: npm run build
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
