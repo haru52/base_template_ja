@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/haru52/base_template_ja/compare/v4.6.0...v5.0.0) (2022-09-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* release ワークフローから Build ステップを削除
+
+### Continuous Integration
+
+* release ワークフローから Build ステップを削除 ([18359c9](https://github.com/haru52/base_template_ja/commit/18359c978e8123cfb860e0adc0e10f0e61ad9c10))
+
 ## [4.6.0](https://github.com/haru52/base_template_ja/compare/v4.5.0...v4.6.0) (2022-09-04)
 
 
