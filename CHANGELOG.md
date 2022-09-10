@@ -1,3 +1,10 @@
+## [5.2.0](https://github.com/haru52/base_template_ja/compare/v5.1.0...v5.2.0) (2022-09-10)
+
+
+### Features
+
+* **ci:** 可読性のために空行を追加 ([dab420a](https://github.com/haru52/base_template_ja/commit/dab420a4afff08929a4ade8e18effae6e42e3226))
+
 ## [5.1.0](https://github.com/haru52/base_template_ja/compare/v5.0.0...v5.1.0) (2022-09-10)
 
 
