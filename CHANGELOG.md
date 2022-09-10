@@ -1,3 +1,10 @@
+## [5.1.0](https://github.com/haru52/base_template_ja/compare/v5.0.0...v5.1.0) (2022-09-10)
+
+
+### Features
+
+* **chore:** semantic-release プラグインの順序を変更 ([5cd4e99](https://github.com/haru52/base_template_ja/commit/5cd4e99352e3d01102aa149d298518142518c901))
+
 ## [5.0.0](https://github.com/haru52/base_template_ja/compare/v4.6.0...v5.0.0) (2022-09-08)
 
 
