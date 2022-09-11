@@ -2,7 +2,7 @@
 
 [![Test](https://github.com/haru52/base_template_ja/actions/workflows/test.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/test.yml)
 [![Release](https://github.com/haru52/base_template_ja/actions/workflows/release.yml/badge.svg)](https://github.com/haru52/base_template_ja/actions/workflows/release.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://haru52.com/base_template_ja/CODE_OF_CONDUCT.html)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://haru52.github.io/base_template_ja/CODE_OF_CONDUCT.html)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://commitizen.github.io/cz-cli/)
 [![semantic-release: conventionalcommits](https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
@@ -101,11 +101,11 @@
 
 ## コントリビューション
 
-[コントリビューティングガイドライン](https://haru52.com/base_template_ja/CONTRIBUTING.html)
+[コントリビューティングガイドライン](https://haru52.github.io/base_template_ja/CONTRIBUTING.html)
 
 ## ドキュメント
 
-[ドキュメント | base_template_ja](https://haru52.com/base_template_ja/)
+[ドキュメント | base_template_ja](https://haru52.github.io/base_template_ja/)
 
 ## 作者
 

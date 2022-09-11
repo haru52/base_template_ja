@@ -2,14 +2,14 @@
 
 ## 動作要件
 
-|                           ツール                            |                      バージョン                      |
-| ----------------------------------------------------------- | ---------------------------------------------------- |
-| Node.js                                                     | [.node-version](.node-version#L1)                    |
-| npm                                                         | [package.json](package.json) における `engines` の値 |
-| [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.7                                               |
-| [yamllint](https://yamllint.readthedocs.io/)                | ^1.27.1                                              |
-| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0 <1.0.0                                       |
-| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](.tool-versions)                     |
+|                           ツール                            |                                                バージョン                                                 |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Node.js                                                     | [.node-version](https://github.com/haru52/base_template_ja/blob/main/.node-version#L1)                    |
+| npm                                                         | [package.json](https://github.com/haru52/base_template_ja/blob/main/package.json) における `engines` の値 |
+| [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^2.2.7                                                                                                    |
+| [yamllint](https://yamllint.readthedocs.io/)                | ^1.27.1                                                                                                   |
+| [ShellCheck](https://github.com/koalaman/shellcheck#readme) | >=0.8.0 <1.0.0                                                                                            |
+| [actionlint](https://github.com/rhysd/actionlint#readme)    | [.tool-versions](https://github.com/haru52/base_template_ja/blob/main/.tool-versions)                     |
 
 ## 規約
 
