@@ -1,3 +1,14 @@
+## [6.0.0](https://github.com/haru52/base_template_ja/compare/v5.2.0...v6.0.0) (2022-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* **docs:** ドキュメントを docs/ ディレクトリに移動
+
+### Features
+
+* **docs:** ドキュメントを docs/ ディレクトリに移動 ([1912c2a](https://github.com/haru52/base_template_ja/commit/1912c2aa9f351c541567ff9b4804a64710fc9076))
+
 ## [5.2.0](https://github.com/haru52/base_template_ja/compare/v5.1.0...v5.2.0) (2022-09-10)
 
 
