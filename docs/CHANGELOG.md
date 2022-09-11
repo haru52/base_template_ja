@@ -1,3 +1,10 @@
+## [6.1.0](https://github.com/haru52/base_template_ja/compare/v6.0.0...v6.1.0) (2022-09-11)
+
+
+### Features
+
+* **docs:** readme とコントリビューティングガイドラインを更新 ([697f2fe](https://github.com/haru52/base_template_ja/commit/697f2fe169285dd3f210f896a985373a32cc502d))
+
 ## [6.0.0](https://github.com/haru52/base_template_ja/compare/v5.2.0...v6.0.0) (2022-09-11)
 
 
