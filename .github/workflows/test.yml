@@ -46,7 +46,7 @@ jobs:
         shell: bash
 # yamllint disable rule:comments-indentation
   # 当リポジトリが npm プロジェクトであり、かつ、package.json に build または
-  # test script がある場合、以下のステップをアンコメントしてください。
+  # test script がある場合、以下のジョブをアンコメントしてください。
   # build:
   #   name: Build
   #   runs-on: ubuntu-latest
