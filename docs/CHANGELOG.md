@@ -1,3 +1,10 @@
+## [6.3.0](https://github.com/haru52/base_template_ja/compare/v6.2.0...v6.3.0) (2022-12-26)
+
+
+### Features
+
+* **ci:** コメント文言を変更 ([9f6c3a5](https://github.com/haru52/base_template_ja/commit/9f6c3a5d41c13d098aff7f38063d454b4d2017ac))
+
 ## [6.2.0](https://github.com/haru52/base_template_ja/compare/v6.1.0...v6.2.0) (2022-09-11)
 
 
