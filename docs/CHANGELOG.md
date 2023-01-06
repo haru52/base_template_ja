@@ -1,3 +1,10 @@
+## [6.3.1](https://github.com/haru52/base_template_ja/compare/v6.3.0...v6.3.1) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump json5 from 2.2.1 to 2.2.3 ([7ce399e](https://github.com/haru52/base_template_ja/commit/7ce399ec39b1b48524a6c96c30d977c98d9cf662))
+
 ## [6.3.0](https://github.com/haru52/base_template_ja/compare/v6.2.0...v6.3.0) (2022-12-26)
 
 
