@@ -1,3 +1,13 @@
+## [6.4.0](https://github.com/haru52/base_template_ja/compare/v6.3.1...v6.4.0) (2023-01-06)
+
+
+### Features
+
+* **build:** node.jsとnpmのバージョンを更新 ([c4f5cca](https://github.com/haru52/base_template_ja/commit/c4f5cca09007663bba1b2131bd6f9521dae28b24))
+* **build:** npm依存パッケージを更新 ([b137d87](https://github.com/haru52/base_template_ja/commit/b137d8758ce325f06895290009f76356c166166e))
+* **chore:** actionlintのバージョンを更新 ([df0122f](https://github.com/haru52/base_template_ja/commit/df0122f19bafe9bd2b19062f8d9320e06d4cabdd))
+* **docs:** コントリビューティングガイドラインを更新 ([7af9f6c](https://github.com/haru52/base_template_ja/commit/7af9f6cc1f97bae238ef4e5d0757dd875d015812))
+
 ## [6.3.1](https://github.com/haru52/base_template_ja/compare/v6.3.0...v6.3.1) (2023-01-06)
 
 
