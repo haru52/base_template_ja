@@ -3,7 +3,7 @@
   - secretlint
   - prettier --check
 "*.{md,markdown}": markdownlint
-"*.{yml,yaml}": make lint-yml
+"*.{yml,yaml}": yamllint --strict
 "*.sh": shellcheck
 ".husky/*": shellcheck
 ".github/workflows/*.{yml,yaml}": actionlint
