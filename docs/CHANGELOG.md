@@ -1,3 +1,12 @@
+## [6.5.0](https://github.com/haru52/base_template_ja/compare/v6.4.0...v6.5.0) (2023-01-13)
+
+
+### Features
+
+* .lintstagedrc.yml を改善 ([0a910bf](https://github.com/haru52/base_template_ja/commit/0a910bf441b1b00487a4b64948cff96c51094a9f))
+* **build:** node.js と npm のバージョンを更新 ([19fc7da](https://github.com/haru52/base_template_ja/commit/19fc7daa9a5e8ee945c6ab83f373763817f1460b))
+* **build:** 依存 npm パッケージを更新 ([84ebdbf](https://github.com/haru52/base_template_ja/commit/84ebdbf749b52b5a5c74ed643ed4976f07e4a8a9))
+
 ## [6.4.0](https://github.com/haru52/base_template_ja/compare/v6.3.1...v6.4.0) (2023-01-06)
 
 
