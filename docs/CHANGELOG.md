@@ -1,3 +1,12 @@
+## [6.6.0](https://github.com/haru52/base_template_ja/compare/v6.5.0...v6.6.0) (2023-01-18)
+
+
+### Features
+
+* **build:** npm のバージョンを更新 ([db74813](https://github.com/haru52/base_template_ja/commit/db74813f59b1fd3197bcd3eb92941a3ff5866698))
+* **build:** 依存 npm パッケージを更新 ([1a6fec6](https://github.com/haru52/base_template_ja/commit/1a6fec6440425ba13592d384106f8f811b9fe45a))
+* **docs:** コントリビューティングガイドラインを更新 ([85d14df](https://github.com/haru52/base_template_ja/commit/85d14df928cc9b5248a0dc47a4edf26bc6b87417))
+
 ## [6.5.0](https://github.com/haru52/base_template_ja/compare/v6.4.0...v6.5.0) (2023-01-13)
 
 
