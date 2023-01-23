@@ -31,7 +31,7 @@
 ## インストール
 
 ```sh
-gh repo clone <your org>/base_template_ja # フォークしたリポジトリをクローン
+git clone git@github.com:<your org>/base_template_ja.git
 cd base_template_ja
 make dev-install
 ```
