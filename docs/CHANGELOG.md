@@ -1,3 +1,11 @@
+## [6.8.0](https://github.com/haru52/base_template_ja/compare/v6.7.0...v6.8.0) (2023-03-29)
+
+
+### Features
+
+* **chore:** package.json の repository.url から `git+` プレフィックスを除去 ([615d295](https://github.com/haru52/base_template_ja/commit/615d29585753ed5054ddc413c44e28b8405c1811))
+* **docs:** readme.md の「利用方法」を更新 ([69d7476](https://github.com/haru52/base_template_ja/commit/69d747608f73a5f3ce1d9f56bec14c46c1a7907d))
+
 ## [6.7.0](https://github.com/haru52/base_template_ja/compare/v6.6.0...v6.7.0) (2023-01-23)
 
 
