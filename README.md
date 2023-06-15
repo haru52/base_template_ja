@@ -70,7 +70,7 @@
 
 [![Security overview](images/security_overview.png)](https://github.com/haru52/base_template_ja/security)
 
-なぜ `Code scannig alerts` 機能が有効になっていないのでしょうか？それは、このリポジトリにはスキャン対象となるコードが存在しないためです！もちろん、あなたのプロジェクトに応じてこの機能をセットアップすることもできます。
+なぜ `Private vulnerability reporting` と `Code scannig alerts` 機能が有効になっていないのでしょうか？それは、前者はベータ機能であり、このリポジトリにはスキャン対象となるコードが存在しないためです！もちろん、あなたのプロジェクトに応じてこれらをセットアップすることもできます。
 
 ### トラブルシューティング
 
