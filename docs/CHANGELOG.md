@@ -1,3 +1,10 @@
+## [6.10.0](https://github.com/haru52/base_template_ja/compare/v6.9.0...v6.10.0) (2023-08-03)
+
+
+### Features
+
+* **chore:** husky ファイルを更新 ([d4a4aed](https://github.com/haru52/base_template_ja/commit/d4a4aed47118a6852ab22b6c841f485e1dc23879))
+
 ## [6.9.0](https://github.com/haru52/base_template_ja/compare/v6.8.0...v6.9.0) (2023-06-15)
 
 
