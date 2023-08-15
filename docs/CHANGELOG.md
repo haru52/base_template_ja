@@ -1,3 +1,18 @@
+## [6.11.0](https://github.com/haru52/base_template_ja/compare/v6.10.0...v6.11.0) (2023-08-15)
+
+
+### Features
+
+* **build:** node.js と npm のバージョンを更新 ([bba6f83](https://github.com/haru52/base_template_ja/commit/bba6f839e197d8d7cb048e2b265a220b22393a76))
+* **build:** npm パッケージを更新 ([bc8ea7f](https://github.com/haru52/base_template_ja/commit/bc8ea7fdc1ead9f7c2c60651bee5456cb82fe866))
+* **chore:** .gitignore を更新 ([115bc5b](https://github.com/haru52/base_template_ja/commit/115bc5b97c989103e999f0a2db1e65fda903f649))
+* **chore:** actionlint を更新 ([7f0bc29](https://github.com/haru52/base_template_ja/commit/7f0bc29a1ac7fa0544fa87d41b54a467f2e7ea6c))
+* **chore:** prh-rules を追加 ([9c3397b](https://github.com/haru52/base_template_ja/commit/9c3397b981331617e2f5d996130c269359de21c3))
+* **chore:** techbooster.yml の「半角括弧を全角括弧に」するルールをコメントアウト ([c744504](https://github.com/haru52/base_template_ja/commit/c7445046bd584e73179e4fc8052d4fc1a0500315))
+* **chore:** textlint-rule-prh をインストール ([77a5154](https://github.com/haru52/base_template_ja/commit/77a515403af8ab747774f59faa02ea139bf30eb9))
+* **docs:** prh による検査をパスするようにドキュメントを修正 ([27019f2](https://github.com/haru52/base_template_ja/commit/27019f20834f54d798985ed96839ebe3cc0ddfe7))
+* **style:** prh-rules の YAML ファイルをフォーマット ([e1acbdf](https://github.com/haru52/base_template_ja/commit/e1acbdf54728827b554ae8a53f5bee81e40e9566))
+
 ## [6.10.0](https://github.com/haru52/base_template_ja/compare/v6.9.0...v6.10.0) (2023-08-03)
 
 
