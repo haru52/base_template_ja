@@ -1,3 +1,22 @@
+## [7.0.0](https://github.com/haru52/base_template_ja/compare/v6.11.0...v7.0.0) (2023-08-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* prh-rules/ ディレクトリを削除
+
+### Features
+
+* **chore:** git submodule として prh-rules/ を追加 ([f89c00b](https://github.com/haru52/base_template_ja/commit/f89c00bbc93bf987fdd9322a6a504f3c9351f9d3))
+* **chore:** prh-rules を ignore 設定に追加 ([5df38a4](https://github.com/haru52/base_template_ja/commit/5df38a4bd7f6face5bc5ccb0cc01777d84c14d9b))
+* **ci:** git submodule もクローンするようにワークフローを更新 ([5cf3532](https://github.com/haru52/base_template_ja/commit/5cf353298895bf5fb9b882105fd2457c0d19f7b4))
+* **docs:** コントリビューティングガイドラインを更新 ([fa0bc00](https://github.com/haru52/base_template_ja/commit/fa0bc00b9b21af1fdda73a721ac32c2cf16af6de))
+
+
+### Miscellaneous Chores
+
+* prh-rules/ ディレクトリを削除 ([1662266](https://github.com/haru52/base_template_ja/commit/166226684ac1f0ae90b3dc5b1a0cffff811bfc50))
+
 ## [6.11.0](https://github.com/haru52/base_template_ja/compare/v6.10.0...v6.11.0) (2023-08-15)
 
 
