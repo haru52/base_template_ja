@@ -4,8 +4,8 @@
   "description": "完全に自動化されたテンプレートリポジトリです。コミュニティスタンダードに完全準拠しています。",
   "private": true,
   "engines": {
-    "node": "^18.16.0",
-    "npm": "^9.7.1"
+    "node": "^18.17.1",
+    "npm": "^9.8.1"
   },
   "main": "index.js",
   "scripts": {
