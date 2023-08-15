@@ -5,3 +5,6 @@
 # Prettier ではなく yamllint を使う
 *.yml
 *.yaml
+
+# proofreading-helper (prh)
+/prh-rules/

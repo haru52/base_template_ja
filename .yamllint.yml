@@ -2,3 +2,4 @@
 extends: default
 ignore: |
   node_modules/
+  prh-rules/
