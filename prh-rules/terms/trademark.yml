@@ -1,36 +1,37 @@
+---
 # https://github.com/prh/rules/blob/711e00793d9d69eeda04d68a796b6d9afb6d5748/terms/trademark.yml
 # Rules for Trademark
 meta:
   reviewer:
     - vvakame
     - mhidaka
-  rules:   https://github.com/prh/rules
+  rules: https://github.com/prh/rules
 
 version: 1
 rules:
   - expected: Re:VIEW
-    pattern:  /ReVIEW/
+    pattern: /ReVIEW/
     specs:
       - from: ReVIEW
-        to:   Re:VIEW
+        to: Re:VIEW
       - from: review
-        to:   review
+        to: review
   - expected: 技術書典
-    pattern:  /技術書(店|…|点|展|てん)/
+    pattern: /技術書(店|…|点|展|てん)/
     specs:
       - from: 技術書点
-        to:   技術書典
+        to: 技術書典
       - from: 技術書展
-        to:   技術書典
+        to: 技術書典
   - expected: American Express（Amex）
     pattern:
       - アメリカン・エキスプレス
       - アメックス
       - アメリカンエクスプレス
   - expected: 技術書典
-    pattern:  /技術書(店|…|点|展|てん)/
+    pattern: /技術書(店|…|点|展|てん)/
     specs:
       - from: 技術書点
-        to:   技術書典
+        to: 技術書典
       - from: 技術書展
-        to:   技術書典
+        to: 技術書典
