@@ -1,3 +1,10 @@
+## [7.1.0](https://github.com/haru52/base_template_ja/compare/v7.0.0...v7.1.0) (2023-08-16)
+
+
+### Features
+
+* **chore:** prh.yml を更新 ([03f8de5](https://github.com/haru52/base_template_ja/commit/03f8de58506ceb7c492825146c820c2e62f8a55d))
+
 ## [7.0.0](https://github.com/haru52/base_template_ja/compare/v6.11.0...v7.0.0) (2023-08-15)
 
 
