@@ -47,7 +47,7 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "commitizen": "^4.3.0",
-    "conventional-changelog-conventionalcommits": "^6.1.0",
+    "conventional-changelog-conventionalcommits": "^7.0.2",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.0",
     "markdownlint-cli": ">=0.35.0 <1.0.0",
