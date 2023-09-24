@@ -87,6 +87,11 @@
 
 [Base Template CLI][base-template-cli] をご利用ください。
 
+### 言語
+
+- [English](https://github.com/haru52/base_template#readme)（本家）
+- 日本語（当リポジトリ）
+
 ## バージョニングポリシー
 
 [セマンティック バージョニング 2.0.0](https://semver.org/lang/ja/spec/v2.0.0.html)
@@ -94,11 +99,6 @@
 ## ライセンス
 
 [WTFPL](LICENSE)
-
-## 言語
-
-- [English](https://github.com/haru52/base_template#readme)（本家）
-- 日本語（当リポジトリ）
 
 ## コントリビューション
 
