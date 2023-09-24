@@ -1,3 +1,11 @@
+## [7.2.0](https://github.com/haru52/base_template_ja/compare/v7.1.0...v7.2.0) (2023-09-24)
+
+
+### Features
+
+* **chore:** yarn でも動作するように npm run-scripts を修正 ([a1bfbab](https://github.com/haru52/base_template_ja/commit/a1bfbab9f3b2d527cb640d883519979a4d4e521d))
+* **docs:** readme を更新 ([86968b5](https://github.com/haru52/base_template_ja/commit/86968b517082a533df19ce58ca10064670411e06))
+
 ## [7.1.0](https://github.com/haru52/base_template_ja/compare/v7.0.0...v7.1.0) (2023-08-16)
 
 
