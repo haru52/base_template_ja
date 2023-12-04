@@ -1,6 +1,7 @@
 .PHONY: dev-install lint lint-npm lint-yml lint-sh lint-action update-gi
 
 dev-install:
+	git submodule update --init --recursive
 	npm ci
 
 lint: lint-npm lint-yml lint-sh lint-action
