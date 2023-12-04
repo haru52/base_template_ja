@@ -1,3 +1,11 @@
+## [7.3.0](https://github.com/haru52/base_template_ja/compare/v7.2.0...v7.3.0) (2023-12-04)
+
+
+### Features
+
+* **chore:** make dev-install コマンド内部で Git サブモジュールを再帰的に pull するよう変更 ([fbbcc40](https://github.com/haru52/base_template_ja/commit/fbbcc40605f466242e3c2dfb4b22d79074d42f6e))
+* **docs:** コントリビューティングガイドラインを更新 ([1a6d7d8](https://github.com/haru52/base_template_ja/commit/1a6d7d8a46aa112e39a18ef565179c69870ff544))
+
 ## [7.2.0](https://github.com/haru52/base_template_ja/compare/v7.1.0...v7.2.0) (2023-09-24)
 
 
