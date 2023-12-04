@@ -33,7 +33,7 @@
 ## インストール
 
 ```sh
-git clone --recursive git@github.com:<your org>/base_template_ja.git
+git clone git@github.com:<your org>/base_template_ja.git
 cd base_template_ja
 make dev-install
 ```
