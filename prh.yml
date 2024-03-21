@@ -1,5 +1,7 @@
 ---
 version: 1
 imports:
-  - ./prh-rules/media/techbooster.yml
+  - path: ./prh-rules/media/techbooster.yml
+    ignoreRules:
+      - expected: （$1）
   - ./prh-rules/files/markdown.yml
