@@ -1,3 +1,10 @@
+## [7.9.0](https://github.com/haru52/base_template_ja/compare/v7.8.0...v7.9.0) (2024-05-17)
+
+
+### Features
+
+* **docs:** contributor covenant のバッジを更新 ([2a5ef40](https://github.com/haru52/base_template_ja/commit/2a5ef40d1798ed0757bb03791172f03c348cfb41))
+
 ## [7.8.0](https://github.com/haru52/base_template_ja/compare/v7.7.0...v7.8.0) (2024-05-17)
 
 
