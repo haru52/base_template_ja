@@ -1,3 +1,10 @@
+## [7.7.0](https://github.com/haru52/base_template_ja/compare/v7.6.0...v7.7.0) (2024-05-17)
+
+
+### Features
+
+* **docs:** コントリビューティングガイドラインを更新 ([0440497](https://github.com/haru52/base_template_ja/commit/0440497c46b3bb38b71163388204cf372e0c647a))
+
 ## [7.6.0](https://github.com/haru52/base_template_ja/compare/v7.5.0...v7.6.0) (2024-05-17)
 
 
