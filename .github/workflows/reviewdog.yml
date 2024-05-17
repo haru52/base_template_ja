@@ -10,7 +10,7 @@ jobs:
           submodules: recursive
       - uses: actions/setup-node@v4
         with:
-          node-version-file: .node-version
+          node-version-file: .tool-versions
           cache: npm
       - name: markdownlint
         uses: reviewdog/action-markdownlint@v0
