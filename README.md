@@ -10,9 +10,9 @@
 
 ## 概要
 
-完全に自動化されたテンプレートリポジトリです。お望みのままにこのテンプレートを利用、拡張、カスタマイズすることができます！
+完全に自動化されたテンプレートリポジトリです。あなたはお望みのままにこのテンプレートを利用、拡張、カスタマイズすることができます！
 
-このテンプレートは [GitHub コミュニティスタンダード](https://github.com/haru52/base_template_ja/community)に完全準拠しています。そして、このテンプレートはリポジトリ初期化フェーズにおける定型的なファイルの追加という苦痛を取り除きます ☺️
+また、このテンプレートは [GitHub コミュニティスタンダード](https://github.com/haru52/base_template_ja/community)に完全準拠しています。さらに、このテンプレートはリポジトリ初期化フェーズにおける定型的なファイルの追加という苦痛を取り除きます ☺️
 
 ## 動作要件
 
@@ -44,22 +44,22 @@
 |            カテゴリー             |                                        ツール                                         |
 | --------------------------------- | ------------------------------------------------------------------------------------- |
 | IDE／エディタ設定                 | [EditorConfig](https://editorconfig.org/)                                             |
-| .gitignore 管理                   | [gibo](https://github.com/simonwhitaker/gibo#readme)                                  |
+| .gitignore 管理                   | [gibo](https://github.com/simonwhitaker/gibo)                                         |
 | Git フック                        | [Husky](https://typicode.github.io/husky)                                             |
 | Git コミット I/F                  | [Commitizen](https://commitizen.github.io/cz-cli/)                                    |
 | CI/CD                             | [GitHub Actions](https://github.com/features/actions)                                 |
-| コードレビュー                    | [reviewdog](https://github.com/reviewdog/reviewdog#readme)                            |
+| コードレビュー                    | [reviewdog](https://github.com/reviewdog/reviewdog)                                   |
 | リリース                          | [semantic-release](https://semantic-release.gitbook.io/semantic-release/)             |
 | 依存性更新                        | [Dependabot](https://docs.github.com/ja/code-security/dependabot)                     |
-| Lint：Git ステージ                | [lint-staged](https://github.com/okonet/lint-staged#readme)                           |
+| Lint：Git ステージ                | [lint-staged](https://github.com/okonet/lint-staged)                                  |
 | Lint：Git コミットメッセージ      | [commitlint](https://commitlint.js.org/)                                              |
-| Lint：クレデンシャル              | [Secretlint](https://github.com/secretlint/secretlint#readme)                         |
-| Lint：Markdown                    | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli#readme)          |
+| Lint：クレデンシャル              | [Secretlint](https://github.com/secretlint/secretlint)                                |
+| Lint：Markdown                    | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)                 |
 | Lint：テキスト（散文）            | [textlint](https://textlint.github.io/)                                               |
 | Lint：YAML                        | [yamllint](https://yamllint.readthedocs.io/)                                          |
-| Lint：シェルスクリプト            | [ShellCheck](https://github.com/koalaman/shellcheck#readme)                           |
+| Lint：シェルスクリプト            | [ShellCheck](https://github.com/koalaman/shellcheck)                                  |
 | Lint：JSON、その他                | [Prettier](https://prettier.io/)                                                      |
-| Lint：GitHub Actions ワークフロー | [actionlint](https://github.com/rhysd/actionlint#readme)                              |
+| Lint：GitHub Actions ワークフロー | [actionlint](https://github.com/rhysd/actionlint)                                     |
 | Lint：GitHub PR タイトル          | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |
 
 ### コミュニティスタンダード
@@ -89,7 +89,7 @@
 
 ### 言語
 
-- [English](https://github.com/haru52/base_template#readme)（本家）
+- [English](https://github.com/haru52/base_template)（本家）
 - 日本語（当リポジトリ）
 
 ## バージョニングポリシー
@@ -112,4 +112,4 @@
 
 [haru](https://haru52.com/)
 
-[base-template-cli]: https://github.com/haru52/base_template_cli#readme
+[base-template-cli]: https://github.com/haru52/base_template_cli
