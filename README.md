@@ -57,7 +57,6 @@
 | Lint：Markdown                    | [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)                 |
 | Lint：テキスト（散文）            | [textlint](https://textlint.github.io/)                                               |
 | Lint：YAML                        | [yamllint](https://yamllint.readthedocs.io/)                                          |
-| Lint：シェルスクリプト            | [ShellCheck](https://github.com/koalaman/shellcheck)                                  |
 | Lint：JSON、その他                | [Prettier](https://prettier.io/)                                                      |
 | Lint：GitHub Actions ワークフロー | [actionlint](https://github.com/rhysd/actionlint)                                     |
 | Lint：GitHub PR タイトル          | [semantic-pull-request](https://github.com/marketplace/actions/semantic-pull-request) |

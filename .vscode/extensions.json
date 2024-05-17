@@ -8,7 +8,6 @@
     "ms-vscode.makefile-tools",
     "RomanPeshkov.vscode-text-tables",
     "shuworks.vscode-table-formatter",
-    "taichi.vscode-textlint",
-    "timonwong.shellcheck"
+    "taichi.vscode-textlint"
   ]
 }
