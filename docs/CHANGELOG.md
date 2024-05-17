@@ -1,3 +1,11 @@
+## [7.10.0](https://github.com/haru52/base_template_ja/compare/v7.9.0...v7.10.0) (2024-05-17)
+
+
+### Features
+
+* **chore:** package.json を更新 ([acae9e2](https://github.com/haru52/base_template_ja/commit/acae9e20735ed3f761e2e6e41c794acfc0a30318))
+* **docs:** ドキュメントを更新 ([5ba1e37](https://github.com/haru52/base_template_ja/commit/5ba1e37842d11165e75d3ae239f3445397e01d96))
+
 ## [7.9.0](https://github.com/haru52/base_template_ja/compare/v7.8.0...v7.9.0) (2024-05-17)
 
 
