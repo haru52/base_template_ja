@@ -4,7 +4,7 @@
 
 |                           ツール                            |                                                  バージョン                                                   |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Node.js                                                     | [.tool-versions](https://github.com/haru52/base_template_ja/blob/main/.tool-versions#L2)                      |
+| Node.js                                                     | [.tool-versions](https://github.com/haru52/base_template_ja/blob/main/.tool-versions)                         |
 | npm                                                         | [package.json](https://github.com/haru52/base_template_ja/blob/main/package.json) における `engines.npm` の値 |
 | [gibo](https://github.com/simonwhitaker/gibo#readme)        | ^3.0.11                                                                                                       |
 | [yamllint](https://yamllint.readthedocs.io/)                | ^1.35.1                                                                                                       |
