@@ -1,3 +1,15 @@
+## [8.0.0](https://github.com/haru52/base_template_ja/compare/v7.10.0...v8.0.0) (2024-05-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** shellcheck による lint を廃止
+
+### Features
+
+* **chore:** .secretlintignore を追加 ([fd10746](https://github.com/haru52/base_template_ja/commit/fd107469dc1ea5619e1ba42ac43e7a42b70a37c6))
+* **chore:** shellcheck による lint を廃止 ([f6fde4b](https://github.com/haru52/base_template_ja/commit/f6fde4be1f9be61159bc6ce3d498005b9492571a))
+
 ## [7.10.0](https://github.com/haru52/base_template_ja/compare/v7.9.0...v7.10.0) (2024-05-17)
 
 
