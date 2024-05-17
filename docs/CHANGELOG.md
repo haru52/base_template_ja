@@ -1,3 +1,14 @@
+## [7.6.0](https://github.com/haru52/base_template_ja/compare/v7.5.0...v7.6.0) (2024-05-17)
+
+
+### Features
+
+* **chore:** actionlint のバージョンを更新 ([4f65bad](https://github.com/haru52/base_template_ja/commit/4f65bad2063256d465e4d6d1dc36a2a351bc9e01))
+* **chore:** node.js と npm のバージョンを更新 ([0831c3d](https://github.com/haru52/base_template_ja/commit/0831c3d4f9f380bc60a50a0cb8401b834876ab9a))
+* **chore:** node.js のバージョン指定を .node-version から .tool-versions に変更 ([c9dfa0c](https://github.com/haru52/base_template_ja/commit/c9dfa0c9da2746bd4155e4f420ebf46200f616dd))
+* **chore:** npm パッケージを更新 ([d92c2f6](https://github.com/haru52/base_template_ja/commit/d92c2f607adbf7f06f8fbbbf97bd15b80ebfc508))
+* **ci:** github actions を更新 ([89a1903](https://github.com/haru52/base_template_ja/commit/89a1903b7042dc6a191ada09b9e03bc5790bcc8d))
+
 ## [7.5.0](https://github.com/haru52/base_template_ja/compare/v7.4.0...v7.5.0) (2024-05-17)
 
 
