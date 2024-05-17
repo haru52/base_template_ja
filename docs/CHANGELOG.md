@@ -1,3 +1,10 @@
+## [7.8.0](https://github.com/haru52/base_template_ja/compare/v7.7.0...v7.8.0) (2024-05-17)
+
+
+### Features
+
+* **docs:** コントリビューター行動規範を更新（v2.0 → v2.1） ([b5d74fd](https://github.com/haru52/base_template_ja/commit/b5d74fde185566d632398b095789eba6bcd7422a))
+
 ## [7.7.0](https://github.com/haru52/base_template_ja/compare/v7.6.0...v7.7.0) (2024-05-17)
 
 
