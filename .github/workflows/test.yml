@@ -9,11 +9,11 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           submodules: recursive
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version-file: .node-version
           cache: npm
@@ -27,7 +27,7 @@ jobs:
         # 理由：Dependabot によるコミットメッセージ 1 行の長さが 100 文字を
         # 超えることがあるため。
         if: github.actor != 'dependabot[bot]'
-        uses: wagoid/commitlint-github-action@v5
+        uses: wagoid/commitlint-github-action@v6
         with:
           configFile: .commitlintrc.yml
       - name: "Lint: YAML"
@@ -35,7 +35,7 @@ jobs:
         with:
           yamllint_strict: true
       - name: "Lint: shell script"
-        uses: ludeeus/action-shellcheck@master
+        uses: ludeeus/action-shellcheck@2.0.0
         with:
           ignore_paths: .husky/_ node_modules
       - name: "Lint: GitHub Actions workflow"
@@ -52,8 +52,8 @@ jobs:
   #   name: Build
   #   runs-on: ubuntu-latest
   #   steps:
-  #     - uses: actions/checkout@v3
-  #     - uses: actions/setup-node@v3
+  #     - uses: actions/checkout@v4
+  #     - uses: actions/setup-node@v4
   #       with:
   #         node-version-file: .node-version
   #         cache: npm
@@ -63,8 +63,8 @@ jobs:
   #   name: Test
   #   runs-on: ubuntu-latest
   #   steps:
-  #     - uses: actions/checkout@v3
-  #     - uses: actions/setup-node@v3
+  #     - uses: actions/checkout@v4
+  #     - uses: actions/setup-node@v4
   #       with:
   #         node-version-file: .node-version
   #         cache: npm
