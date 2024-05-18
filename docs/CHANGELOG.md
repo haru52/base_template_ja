@@ -1,3 +1,10 @@
+## [8.1.0](https://github.com/haru52/base_template_ja/compare/v8.0.0...v8.1.0) (2024-05-18)
+
+
+### Features
+
+* **chore:** npm script を更新 ([188e30b](https://github.com/haru52/base_template_ja/commit/188e30b64bf11403d69b8cde930e4b42460bf9f1))
+
 ## [8.0.0](https://github.com/haru52/base_template_ja/compare/v7.10.0...v8.0.0) (2024-05-17)
 
 
