@@ -1,3 +1,10 @@
+## [8.2.0](https://github.com/haru52/base_template_ja/compare/v8.1.0...v8.2.0) (2024-05-18)
+
+
+### Features
+
+* **docs:** readme を更新 ([f945b64](https://github.com/haru52/base_template_ja/commit/f945b644d88f3b4590148948954c64fd818c0228))
+
 ## [8.1.0](https://github.com/haru52/base_template_ja/compare/v8.0.0...v8.1.0) (2024-05-18)
 
 
