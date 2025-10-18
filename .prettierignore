@@ -6,5 +6,8 @@
 *.yml
 *.yaml
 
+# Husky
+.husky/
+
 # proofreading-helper (prh)
 /prh-rules/
