@@ -4,4 +4,14 @@
 .envrc
 .env
 
+# Claude Code
+.claude/settings.local.json
+
+# Serena
+.serena/
+
+# メモ
+.memo.local.md
+/.memo/
+
 
