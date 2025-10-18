@@ -1,3 +1,6 @@
+# lint-staged 実行時、このファイル自体も Prettier によるチェック対象外とする
+.prettierignore
+
 # Prettier ではなく markdownlint-cli を使う
 *.md
 *.markdown
@@ -8,6 +11,9 @@
 
 # Husky
 .husky/
+
+# textlint
+.textlintignore
 
 # proofreading-helper (prh)
 /prh-rules/
