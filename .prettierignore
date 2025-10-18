@@ -6,6 +6,8 @@
 .secretlintignore
 .textlintignore
 
+Makefile
+
 # Prettier ではなく markdownlint-cli を使う
 *.md
 *.markdown
