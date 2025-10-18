@@ -1,3 +1,21 @@
+## [9.0.0](https://github.com/haru52/base_template_ja/compare/v8.2.0...v9.0.0) (2025-10-18)
+
+### ⚠ BREAKING CHANGES
+
+* **chore:** vs code の推奨拡張機能を更新
+
+### Features
+
+* **chore:** gitignore を更新 ([db34c2a](https://github.com/haru52/base_template_ja/commit/db34c2a636bd746a96390d0bdb1cccb62f5654ab))
+* **chore:** package.json の engines を更新 ([0476ce4](https://github.com/haru52/base_template_ja/commit/0476ce4e8147b10a51b647d80cf0c5e3c4122cca))
+* **chore:** prettierignore に Husky 設定ファイルを追加 ([ae96c3d](https://github.com/haru52/base_template_ja/commit/ae96c3d10cd28130dcf7d92880879c845754f552))
+* **chore:** prettierignore を更新 ([4e31afe](https://github.com/haru52/base_template_ja/commit/4e31afe0a38c967d39f2a4fcc12cc5aee8fb048b))
+* **chore:** prettierignore を更新 ([216bb7b](https://github.com/haru52/base_template_ja/commit/216bb7b69fdf3a7d6a13fb8a4fecb91fb3865729))
+* **chore:** textlintignore を更新 ([78ab44c](https://github.com/haru52/base_template_ja/commit/78ab44c90410afa917dca8e9fdbd0bfddbbd6e65))
+* **chore:** tool-versions を更新 ([6acff31](https://github.com/haru52/base_template_ja/commit/6acff311e74a4f5b77268057f660e07be2f8b099))
+* **chore:** vs code の推奨拡張機能を更新 ([74051df](https://github.com/haru52/base_template_ja/commit/74051df33b33757e596fda4fde575bce6f7bf402))
+* **chore:** 依存 npm パッケージのバージョンを更新 ([f07ac3e](https://github.com/haru52/base_template_ja/commit/f07ac3e5fc85fe507881c25f1c5bea778f234732))
+
 ## [8.2.0](https://github.com/haru52/base_template_ja/compare/v8.1.0...v8.2.0) (2024-05-18)
 
 
