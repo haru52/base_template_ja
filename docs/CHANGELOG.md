@@ -1,3 +1,13 @@
+## [9.1.0](https://github.com/haru52/base_template_ja/compare/v9.0.0...v9.1.0) (2025-10-18)
+
+### Features
+
+* **chore:** gitignore を更新 ([c6b3205](https://github.com/haru52/base_template_ja/commit/c6b3205b814b96e20d75587f26827f1e4854b3e4))
+* **chore:** makefile を .prettierignore に追加 ([0924956](https://github.com/haru52/base_template_ja/commit/0924956dd803f2c1614c39c2c947d055e8b0b9b2))
+* **chore:** textlintignore を更新 ([1cb1ece](https://github.com/haru52/base_template_ja/commit/1cb1ece20a1de51b08ae9654316397d3885b0aa4))
+* **chore:** yamllint.yml を更新 ([3296dbd](https://github.com/haru52/base_template_ja/commit/3296dbd41867cd35127ecfa16b4d2a0124d1dc91))
+* **docs:** ai エージェント用設定ファイルとして AGENTS.md と CLAUDE.md を追加 ([d8cd8d0](https://github.com/haru52/base_template_ja/commit/d8cd8d02918c03e9d71894d6b4cc9df5d5b685be))
+
 ## [9.0.0](https://github.com/haru52/base_template_ja/compare/v8.2.0...v9.0.0) (2025-10-18)
 
 ### ⚠ BREAKING CHANGES
