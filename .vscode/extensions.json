@@ -1,13 +1,12 @@
 {
   "recommendations": [
+    "3w36zj6.textlint",
     "arahata.linter-actionlint",
     "christian-kohler.npm-intellisense",
     "DavidAnson.vscode-markdownlint",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "ms-vscode.makefile-tools",
-    "RomanPeshkov.vscode-text-tables",
-    "shuworks.vscode-table-formatter",
-    "taichi.vscode-textlint"
+    "shuworks.vscode-table-formatter"
   ]
 }
