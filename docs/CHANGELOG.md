@@ -1,3 +1,9 @@
+## [9.3.0](https://github.com/haru52/base_template_ja/compare/v9.2.0...v9.3.0) (2025-10-19)
+
+### Features
+
+* **docs:** コントリビューティングガイドラインを更新 ([5c63c70](https://github.com/haru52/base_template_ja/commit/5c63c70febde6c445775eb54ee05864986cdb387))
+
 ## [9.2.0](https://github.com/haru52/base_template_ja/compare/v9.1.0...v9.2.0) (2025-10-19)
 
 ### Features
