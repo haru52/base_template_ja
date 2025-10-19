@@ -1,3 +1,9 @@
+## [9.2.0](https://github.com/haru52/base_template_ja/compare/v9.1.0...v9.2.0) (2025-10-19)
+
+### Features
+
+* **chore:** gitignore からメモファイルの指定を削除 ([8ed9a31](https://github.com/haru52/base_template_ja/commit/8ed9a31b3f60654e05bbe590d1defd8b7c09ea63))
+
 ## [9.1.0](https://github.com/haru52/base_template_ja/compare/v9.0.0...v9.1.0) (2025-10-18)
 
 ### Features
