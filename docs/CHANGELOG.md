@@ -1,3 +1,9 @@
+## [9.4.0](https://github.com/haru52/base_template_ja/compare/v9.3.0...v9.4.0) (2025-10-19)
+
+### Features
+
+* **chore:** ignore ファイルを更新 ([b5ab440](https://github.com/haru52/base_template_ja/commit/b5ab440b0069e9d3e78d85afacc5b3c66ce32a67))
+
 ## [9.3.0](https://github.com/haru52/base_template_ja/compare/v9.2.0...v9.3.0) (2025-10-19)
 
 ### Features
