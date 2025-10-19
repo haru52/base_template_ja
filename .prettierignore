@@ -1,13 +1,3 @@
-# ignore ファイル
-.gitignore
-.gitignore_custom
-.markdownlintignore
-.prettierignore
-.secretlintignore
-.textlintignore
-
-Makefile
-
 # Prettier ではなく markdownlint-cli を使う
 *.md
 *.markdown
@@ -16,8 +6,18 @@ Makefile
 *.yml
 *.yaml
 
-# Husky
+# ignore ファイル
+.gitignore
+.gitignore_custom
+.markdownlintignore
+.prettierignore
+.secretlintignore
+.textlintignore
+
+# その他の設定ファイル
 .husky/
+.tool-versions
+Makefile
 
 # proofreading-helper (prh)
 /prh-rules/
