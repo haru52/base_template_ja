@@ -31,7 +31,7 @@ jobs:
         with:
           configFile: .commitlintrc.yml
       - name: "Lint: YAML"
-        uses: karancode/yamllint-github-action@v2.1.1
+        uses: karancode/yamllint-github-action@v3.0.0
         with:
           yamllint_strict: true
       - name: "Lint: GitHub Actions workflow"
